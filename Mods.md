@@ -9,6 +9,8 @@
 - **Boxlib** - Library mod required for some other mods.
 - **Cloth Config API** - Configuration library for mods.
 - **Fabric API** - Required for most Fabric mods.
+- **Fabric Language Kotlin** - Usage of Kotlin for mods.
+- **libIPN** - Config library used by Inventory Profiles Next.
 - **Text Placeholder API** - Provides placeholders for chat and UI elements.
 
 ### Performance & Optimization
@@ -22,9 +24,14 @@
 
 ### Quality of Life
 - **Coordinates Display** - Shows coordinates on the screen.
+- **Inventory Profile Next** - Allows sorting inventory.
+- **Jade** - Provides information of target.
+- **Roughly Enough Item** - View items and recipes.
 - **ModMenu** - Provides an in-game mod list GUI.
 - **Ok Zoomer** - Allows customizable zooming.
 - **Pickable Villagers** - Allows picking up and transporting villagers.
+- **Xaero's Minimap** - Displays a map of the nearby world terrain, players, mobs, entities.
+- **Xaero's World Map** - Adds a full screen world map.
 
 ---
 
