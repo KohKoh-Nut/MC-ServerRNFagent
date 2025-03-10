@@ -51,20 +51,23 @@
 | Command | Description |
 |---------|-------------|
 | `/fly` | Toggle flight mode for yourself. |
-| `/fly <target-player>` | Toggle flight mode for a target player. |
+| `/fly <target_player>` | Toggle flight mode for a target player. |
 | `/fly speed <fly_speed>` | Change your flight speed. |
 | `/fly speed reset` | Reset your flight speed to default. |
-| `/fly speed <target-player> <fly_speed>` | Change flight speed for a target player. |
-| `/fly speed <target-player> reset` | Reset flight speed for a target player. |
+| `/fly speed <target_player> <fly_speed>` | Change flight speed for a target player. |
+| `/fly speed <target_player> reset` | Reset flight speed for a target player. |
 | `/invuln` | Make yourself invulnerable (cannot take damage). |
-| `/invuln <target-player>` | Make a target player invulnerable. |
+| `/invuln <target_player>` | Make a target player invulnerable. |
 | `/feed` | Fill your hunger bar & clear exhaustion. |
-| `/feed <target-player>` | Fill a target player's hunger bar & clear exhaustion. |
+| `/feed <target_player>` | Fill a target player's hunger bar & clear exhaustion. |
 | `/heal` | Fill your health. |
-| `/heal <target-player>` | Fill a target player's health. |
+| `/heal <target_player>` | Fill a target player's health. |
 | `/workbench` | Open a workbench (crafting table) GUI. |
 | `/grindstone` | Open a grindstone GUI. |
 | `/stonecutter` | Open a stonecutter GUI. |
 | `/enderchest` | Open your ender chest. |
 | `/top` | Teleport to the highest block at your current x, z position. |
 | `/afk` | Mark yourself as AFK (grants invulnerability if enabled). |
+| `/gamerule` | Sets or queries a game rule value. |
+| `/kill <target_player>` | Kill target player. |
+| `/tp <location>` | Teleport to location. |
