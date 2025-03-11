@@ -59,6 +59,7 @@
 - **Pickable Villagers** - Allows picking up and transporting villagers.
 - **Right Click Harvest** - Harvest crops with a right click.
 - **Skin Restorer** - Restores player skins.
+- **Villager Converting** - Villagers attacked by zombies always get converted instead of dying.
 - **Villager Names** - Gives villagers unique names.
 
 ### Commands & Permissions
