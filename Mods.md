@@ -8,8 +8,10 @@
 - **Architectury API** - Cross-platform modding library.
 - **Boxlib** - Library mod required for some other mods.
 - **Cloth Config API** - Configuration library for mods.
+- **Creative Core** - Required by most of CreativeMD's mods.
 - **Fabric API** - Required for most Fabric mods.
 - **Fabric Language Kotlin** - Usage of Kotlin for mods.
+- **Iceberg** - A modding library that contains new events, helpers, and utilities to make modder's lives easier.
 - **libIPN** - Config library used by Inventory Profiles Next.
 - **Text Placeholder API** - Provides placeholders for chat and UI elements.
 
@@ -24,14 +26,25 @@
 
 ### Quality of Life
 - **Coordinates Display** - Shows coordinates on the screen.
+- **Dynamic Crosshair** - Hides or changes the crosshair dependent on context.
 - **Inventory Profile Next** - Allows sorting inventory.
+- **Item Highlighter** - Highlights newly picked-up items.
 - **Jade** - Provides information of target.
 - **Roughly Enough Item** - View items and recipes.
 - **ModMenu** - Provides an in-game mod list GUI.
+- **Mouse Tweaks** - Enhances inventory management by adding various functions to the mouse buttons.
 - **Ok Zoomer** - Allows customizable zooming.
 - **Pickable Villagers** - Allows picking up and transporting villagers.
+- **Shulker Box Tooltip** - View the contents of shulker boxes from your inventory.
 - **Xaero's Minimap** - Displays a map of the nearby world terrain, players, mobs, entities.
 - **Xaero's World Map** - Adds a full screen world map.
+
+### Ambience
+- **Ambient Sounds** - Adds a rich ambience to the minecraft world.
+- **Falling Leaves** - Adds a neat little particle effect to leaf blocks.
+- **** - Adds a full screen world map.
+- **Sound Physics Remastered** - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
+- **Visuality** - Little visual improvements by adding a bunch of new particles.
 
 ---
 

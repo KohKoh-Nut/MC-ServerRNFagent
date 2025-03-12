@@ -3,7 +3,7 @@
 ---
 
 ## Resource Packs
-- **Mandela's GUI Dark Mode** - Adds a dark mode GUI.
+- **Faithless** - A unique texture for variance in builds and easy differentiation.
 
 ---
 
