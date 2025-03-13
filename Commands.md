@@ -21,6 +21,7 @@
 | `/nickname set <nickname>` | Set your own nickname to specified MinecraftText. |
 | `/nickname clear` | Clear your own nickname. |
 | `/suicide` | Kill yourself. |
+| `/enderchest` | Open your ender chest. |
 | `/wastebin` | Open an inventory screen that deletes items when closed. |
 | `/gametime` | Get the current in-game time. |
 | `/rules` | Print the server rules in chat. |
@@ -65,8 +66,8 @@
 | `/workbench` | Open a workbench (crafting table) GUI. |
 | `/grindstone` | Open a grindstone GUI. |
 | `/stonecutter` | Open a stonecutter GUI. |
-| `/enderchest` | Open your ender chest. |
 | `/top` | Teleport to the highest block at your current x, z position. |
+| `/randomteleport \|\| /rtp` | Teleport to a random location a preset (in config) distance from the spawn. |
 | `/afk` | Mark yourself as AFK (grants invulnerability if enabled). |
 | `/gamerule` | Sets or queries a game rule value. |
 | `/kill <target_player>` | Kill target player. |
